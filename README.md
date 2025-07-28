@@ -84,7 +84,7 @@ Adobe-India-Hackathon25/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/prakharpatel16/Adobe-India-Hackathon25.git
+   git clone https://github.com/Harsh-Sharma-0001/Adobe-India-Hackathon25.git
    cd Adobe-India-Hackathon25
    ```
 
