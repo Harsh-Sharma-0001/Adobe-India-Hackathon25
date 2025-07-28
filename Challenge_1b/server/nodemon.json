@@ -1,0 +1,9 @@
+{
+  "ignore": [
+    "sessions/*",
+    "uploads/*",
+    "output/*",
+    "*.json"
+  ],
+  "ext": "js,mjs,cjs"
+} 

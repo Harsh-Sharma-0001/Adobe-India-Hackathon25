@@ -1,0 +1,174 @@
+{
+  "filename": "file01.pdf",
+  "content": "Application form for grant of LTC advance \n1. Name of the Government Servant \n2. Designation \n3. Date of entering the Central Government \nService \n4. PAY + SI + NPA \n5. Whether permanent or temporary \n6. Home Town as recorded in the Service Book \n7. Whether wife / husband is employed and if so whether entitled to LTC \n8. Whether the concession is to be availed for visiting home town and if so block for which \nLTC is to be availed. \n9. (a) If the concession is to visit anywhere in India, the place to be visited. \n(b) Block for which to be availed. \n10. Single rail fare/bus fare from the headquarters to home town/place of visit by shortest route. \n11. Persons in respect of whom LTC is proposed to be availed. \nS.No  Name Age Relationship \n1. \n2. \n3. \n4. \n5. \n6. \n12. Amount of advance required. Rs. \nI declare that the particulars furnished above are true  and correct to the best of my knowledge.  I \nundertake to produce the tickets for the outward jour ney within ten days of receipt of the advance. \nIn the event of cancellation of the journey or if I fa il to produce the tickets within ten days of receipt of \nadvance, I undertake to refund the entire advance in one lump sum. \nDate \nSignature of Government Servant. ",
+  "sections": [
+    {
+      "title": "Introduction",
+      "text": "Application form for grant of LTC advance \n1. Name of the Government Servant \n2. Designation \n3. Date of entering the Central Government \nService \n4. PAY + SI + NPA \n5. Whether permanent or temporary \n6. Home Town as recorded in the Service Book \n7. Whether wife / husband is employed and if so whether entitled to LTC \n8. Whether the concession is to be availed for visiting home town and if so block for which \nLTC is to be availed. \n9. (a) If the concession is to visit anywhere in India, the place to be visited. \n(b) Block for which to be availed. \n10. Single rail fare/bus fare from the headquarters to home town/place of visit by shortest route. \n11. Persons in respect of whom LTC is proposed to be availed. \nS.No  Name Age Relationship \n"
+    },
+    {
+      "title": "6.",
+      "text": "12. Amount of advance required. Rs. \nI declare that the particulars furnished above are true  and correct to the best of my knowledge.  I \nundertake to produce the tickets for the outward jour ney within ten days of receipt of the advance. \nIn the event of cancellation of the journey or if I fa il to produce the tickets within ten days of receipt of \nadvance, I undertake to refund the entire advance in one lump sum. \nDate \nSignature of Government Servant. \n"
+    }
+  ],
+  "tables": [
+    {
+      "page": 1,
+      "data": [
+        [
+          "1.",
+          "Name of the Government Servant",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "2.",
+          "Designation",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "3.",
+          "Date of entering the Central Government\nService",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "4.",
+          "PAY + SI + NPA",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "5.",
+          "Whether permanent or temporary",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "6.",
+          "Home Town as recorded in the Service Book",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "7.",
+          "Whether wife / husband is employed and if\nso whether entitled to LTC",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "8.",
+          "Whether the concession is to be availed for\nvisiting home town and if so block for which\nLTC is to be availed.",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "9.",
+          "(a) If the concession is to visit anywhere in\nIndia, the place to be visited.\n(b) Block for which to be availed.",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "10.",
+          "Single rail fare/bus fare from the\nheadquarters to home town/place of visit by\nshortest route.",
+          null,
+          "",
+          null,
+          null
+        ],
+        [
+          "11.",
+          "Persons in respect of whom LTC is proposed to be availed.",
+          null,
+          null,
+          null,
+          null
+        ],
+        [
+          null,
+          "S.No",
+          "Name",
+          null,
+          "Age",
+          "Relationship"
+        ],
+        [
+          null,
+          "1.",
+          "",
+          null,
+          "",
+          ""
+        ],
+        [
+          null,
+          "2.",
+          "",
+          null,
+          "",
+          ""
+        ],
+        [
+          null,
+          "3.",
+          "",
+          null,
+          "",
+          ""
+        ],
+        [
+          null,
+          "4.",
+          "",
+          null,
+          "",
+          ""
+        ],
+        [
+          null,
+          "5.",
+          "",
+          null,
+          "",
+          ""
+        ],
+        [
+          null,
+          "6.",
+          "",
+          null,
+          "",
+          ""
+        ],
+        [
+          "12.",
+          "Amount of advance required.",
+          null,
+          "Rs.",
+          null,
+          null
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

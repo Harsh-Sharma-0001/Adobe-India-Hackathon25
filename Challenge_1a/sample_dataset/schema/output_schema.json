@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "PDF Output Schema",
+  "type": "object",
+  "properties": {
+    "filename": { "type": "string" },
+    "content": { "type": "string" },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": { "type": "string" },
+          "text": { "type": "string" }
+        },
+        "required": ["title", "text"]
+      }
+    },
+    "tables": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "page": { "type": "integer" },
+          "data": {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          }
+        },
+        "required": ["page", "data"]
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "page": { "type": "integer" },
+          "image_file": { "type": "string" }
+        },
+        "required": ["page", "image_file"]
+      }
+    }
+  },
+  "required": ["filename", "content", "sections", "tables", "images"]
+} 
