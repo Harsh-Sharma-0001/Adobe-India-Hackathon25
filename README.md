@@ -200,9 +200,9 @@ This project is part of the Adobe India Hackathon 2025. All rights reserved.
 
 ## 👨‍💻 Author
 
-**Prakhar Patel**
-- GitHub: [@prakharpatel16](https://github.com/prakharpatel16)
-- Repository: [Adobe-India-Hackathon25](https://github.com/prakharpatel16/Adobe-India-Hackathon25)
+**Harsh Sharma**
+- GitHub: [@Harsh-Sharma-0001](https://github.com/Harsh-Sharma-0001)
+- Repository: [Adobe-India-Hackathon25](https://github.com/Harsh-Sharma-0001/Adobe-India-Hackathon25)
 
 ## 🙏 Acknowledgments
 
